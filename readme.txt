@@ -44,8 +44,9 @@ https://www.wssu.edu/scholarship-search/login.aspx
 
 Version Notes:
 07/27/2018 admin page create date is able to key in instead of default to today's date. 
-02/14/2018 add the public record id in application confirmation email. 
-
+02/14/2018 add the public record id in application confirmation email. - Had issues so modified on 5/5/21 
+5/5/2021 - Updated for sending e-mail confirmation for the requester and 
+adding Requester's ID in the confirmation e-mail.- 5/5/2021
 
 
  
