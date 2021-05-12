@@ -1,4 +1,4 @@
-Project Name: Public Record database - Test
+Project Name: Public Record database 
 
 Project Requestor Name:  Ivy Brown and Raisha Cobb
 
